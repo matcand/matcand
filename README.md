@@ -32,4 +32,4 @@ Sou um desenvolvedor focado em arquitetar soluções eficientes e desenhar inter
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matcand&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/matcand)
 
 ### 🔗 Vamos nos conectar:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mco2003)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matcand)
